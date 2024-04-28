@@ -1,0 +1,10 @@
+C:\Users\HP\source\repos\Browser\Browser\bin\Debug\Browser.exe.config
+C:\Users\HP\source\repos\Browser\Browser\bin\Debug\Browser.exe
+C:\Users\HP\source\repos\Browser\Browser\bin\Debug\Browser.pdb
+C:\Users\HP\source\repos\Browser\Browser\obj\Debug\Browser.csproj.AssemblyReference.cache
+C:\Users\HP\source\repos\Browser\Browser\obj\Debug\Browser.Properties.Resources.resources
+C:\Users\HP\source\repos\Browser\Browser\obj\Debug\Browser.csproj.GenerateResource.cache
+C:\Users\HP\source\repos\Browser\Browser\obj\Debug\Browser.csproj.CoreCompileInputs.cache
+C:\Users\HP\source\repos\Browser\Browser\obj\Debug\Browser.exe
+C:\Users\HP\source\repos\Browser\Browser\obj\Debug\Browser.pdb
+C:\Users\HP\source\repos\Browser\Browser\obj\Debug\Browser.Browser.resources
